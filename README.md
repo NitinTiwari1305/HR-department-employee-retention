@@ -8,11 +8,11 @@ Hiring and retaining employees are extremely complex tasks that require capital,
 
 Data collected by HR team on their employees is used to develop a model that could predict which employees are more likely to quit. 
 Here's a sample of the dataset: 
-*JobInvolvement
-*Education
-*JobSatisfaction
-*PerformanceRating
-*RelationshipSatisfaction
-*WorkLifeBalance
+* JobInvolvement
+* Education
+* JobSatisfaction
+* PerformanceRating
+* RelationshipSatisfaction
+* WorkLifeBalance
 
 The data and content is for demonstration purposes only. All data collected and ussed is from ssecondary source.
